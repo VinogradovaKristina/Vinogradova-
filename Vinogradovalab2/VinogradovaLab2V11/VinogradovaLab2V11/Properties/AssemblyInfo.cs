@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("VinLAb2_oblast")]
+[assembly: AssemblyTitle("VinogradovaLab2V11")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("VinLAb2_oblast")]
+[assembly: AssemblyProduct("VinogradovaLab2V11")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("6d0759b9-2388-4955-ba48-50d7eb86e977")]
+[assembly: Guid("0f58c9bc-0a18-48a4-8076-d6994851ba5c")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //

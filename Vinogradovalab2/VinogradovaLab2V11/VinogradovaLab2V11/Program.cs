@@ -10,10 +10,10 @@ namespace VinogradovaLab2V11
     {
         static void Main(string[] args)
         {
-            //Функция графика Виноградова К.А.// Вариант 11 
+            //Виноградова Кристина//Вариант 11 Решение функции
             Double x, y = 0;
 
-            Console.WriteLine("Упражнение №1: График");
+            Console.WriteLine("Упражнение №1");
 
             Console.Write("x=");
 
@@ -44,15 +44,6 @@ namespace VinogradovaLab2V11
             Console.WriteLine("y=" + y);
 
             Console.ReadKey();
-
-            
-
-
-
-
-
-
         }
-        
     }
 }

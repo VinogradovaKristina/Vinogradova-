@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6D0759B9-2388-4955-BA48-50D7EB86E977}</ProjectGuid>
+    <ProjectGuid>{0F58C9BC-0A18-48A4-8076-D6994851BA5C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>VinLAb2_oblast</RootNamespace>
-    <AssemblyName>VinLAb2_oblast</AssemblyName>
+    <RootNamespace>VinogradovaLab2V11</RootNamespace>
+    <AssemblyName>VinogradovaLab2V11</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
